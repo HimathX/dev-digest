@@ -32,4 +32,10 @@ Occasional deep dives into **LLM integration patterns**, specialized tooling sta
 - The site is built and deployed via GitHub Pages from `main`.
 
 
-Made by Himath Nimpura — always learning in public.
+
+<div align="center">
+
+**Made by Himath Nimpura — always learning in public.**
+
+
+</div>
