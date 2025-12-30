@@ -31,11 +31,3 @@ Occasional deep dives into **LLM integration patterns**, specialized tooling sta
 - A GitHub Action pulls the latest Medium posts dailyy and refreshes this list.
 - The site is built and deployed via GitHub Pages from `main`.
 
-
-
-<div align="center">
-
-**Made by Himath Nimpura — always learning in public.**
-
-
-</div>
