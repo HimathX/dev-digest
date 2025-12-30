@@ -21,5 +21,3 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@himath.nimpura"
           max_post_count: 5
-          # This template creates a clickable image and title for each post
-          template: '<table><tr><td><a href="$url"><img src="$path" width="150px" height="auto" /></a></td><td><a href="$url">$title</a><br/>$date</td></tr></table>'
