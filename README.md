@@ -7,6 +7,7 @@ Curated notes on software engineering, AI, and the craft of building products.
 ## Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Medical Knowledge Graph Because Vector RAG Is Dumb &lpar;Sometimes&rpar;](https://medium.com/@himath.nimpura/i-built-a-medical-knowledge-graph-because-vector-rag-is-dumb-sometimes-02e26e36c3dc?source=rss-50ab4d2054ff------2)
 - [Beyond the Model: Why 2026 is the Year AI Execution Became a Darwinian Choice](https://medium.com/@himath.nimpura/beyond-the-model-why-2026-is-the-year-ai-execution-became-a-darwinian-choice-cc721b7c436c?source=rss-50ab4d2054ff------2)
 - [The Context Efficient Architect: Scaling AI Agents Without Breaking the Bank](https://medium.com/@himath.nimpura/the-context-efficient-architect-scaling-ai-agents-without-breaking-the-bank-622d4250848c?source=rss-50ab4d2054ff------2)
 - [When Agents Stop Being Lonely: What I Learned at DevFest 2025 | Pt.1](https://medium.com/@himath.nimpura/when-agents-stop-being-lonely-what-i-learned-at-devfest-2025-pt-1-4f5a1a428739?source=rss-50ab4d2054ff------2)
